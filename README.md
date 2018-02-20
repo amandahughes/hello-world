@@ -4,8 +4,3 @@ Hello World repository
 My name is Amanda Hughes.
 I am a Professor at USU.
 I like purple.
-change 6
-change 7.
-change 8
-change 9
-change 10
